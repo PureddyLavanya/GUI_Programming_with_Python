@@ -8,7 +8,7 @@ def login():
     if (uname=="" or psw==""):
         messagebox.showinfo("Error","User Name And Password shouldnot be empty")
     elif (uname=="Lavanya" and psw=="Lavanya@p123"):
-        messagebox.showinfo("Correct","Login Success")
+        messagebox.showinfo("Output","Login Success")
         t.destroy()
     else:
         messagebox.showinfo('Error',"Incorrect User Name Or Password")
