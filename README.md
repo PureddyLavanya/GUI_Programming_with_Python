@@ -1,6 +1,6 @@
 # GUI_Programming_with_Python
 <p align="center">
- <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvZYYUz3AbT7iUL3y_LuIk6_bpMMxZVSxwLQ&usqp=CAU" width="600" height="400">
+ <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvZYYUz3AbT7iUL3y_LuIk6_bpMMxZVSxwLQ&usqp=CAU" width="300" height="300">
 </p>
 <br>
 
