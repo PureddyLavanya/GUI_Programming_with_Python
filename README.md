@@ -1,6 +1,6 @@
 # GUI_Programming_with_Python
 
-![images](https://user-images.githubusercontent.com/97614700/220139742-6cfcff01-c4a8-4a4a-a73b-d6e63007e2ce.jpeg)
+<pre>                 ![images](https://user-images.githubusercontent.com/97614700/220139742-6cfcff01-c4a8-4a4a-a73b-d6e63007e2ce.jpeg)
 <br>
 
   GUI stands for "Graphical User Interface",is a desktop application through which user can interact with the electronic devices like computer.
@@ -18,3 +18,4 @@
   Frames
   Scrolledtext
   Combobox
+  </pre>
