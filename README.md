@@ -1,6 +1,7 @@
 # GUI_Programming_with_Python
-
-<pre>                 ![images](https://user-images.githubusercontent.com/97614700/220139742-6cfcff01-c4a8-4a4a-a73b-d6e63007e2ce.jpeg)
+<p align="center">
+ <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvZYYUz3AbT7iUL3y_LuIk6_bpMMxZVSxwLQ&usqp=CAU" width="600" height="400">
+</p>
 <br>
 
   GUI stands for "Graphical User Interface",is a desktop application through which user can interact with the electronic devices like computer.
